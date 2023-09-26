@@ -1,2 +1,2 @@
-python_version == "3.9.18"
-snowflake-connector-python == "3.2.0"
+python_version==3.9.18
+snowflake-connector-python==3.2.0
